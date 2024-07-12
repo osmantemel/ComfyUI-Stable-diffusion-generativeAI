@@ -23,15 +23,12 @@ code .
 
 ## Özellikler
 
-Projenizin özelliklerini burada listeleyin. Örneğin:
 - Video işleme
 - Görüntüden görüntüye yükseltme (upscale)
 - Metinden görüntüye dönüşüm
 - YOLO ile video işleme
 
 ## Video Tanıtımı
-
-Projenizin tanıtım videosunu buraya ekleyin. Örneğin:
 
 [![Proje Tanıtım Videosu](./img_video/yoloimg.png)](./img_video/yolovideo.mp4)
 
