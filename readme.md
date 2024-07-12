@@ -1,6 +1,3 @@
-README.md dosyanızın GitHub'da açıldığında bir video oynatılmasını sağlayacak şekilde düzenlenmiş hali:
-
-```markdown
 # ComfyUI-Stable-diffusion-generativeAI
 
 video process, img to img upscale, text to img, yolo video process
